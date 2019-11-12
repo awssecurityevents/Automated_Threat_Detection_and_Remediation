@@ -112,4 +112,4 @@ aws ssm get-parameters --names "gd_prod_dbpwd_sample" --with-decryption --profil
 
 ## Proceed to Scenario 1:
 
-[Scenario 1](https://github.com/securityroadshow/amazon-guardduty-hands-on/blob/master/docs/scenario1/index.md)
+[Scenario 1](https://github.com/awssecurityevents/Automated_Threat_Detection_and_Remediation/blob/master/docs/scenario1/index.md)
