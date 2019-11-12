@@ -4,7 +4,7 @@ This repository walks you through a scenario covering threat detection and remed
 
 ## Start the workshop:
 
-Visit the site to get started: [Setup your Environment](https://github.com/securityroadshow/amazon-guardduty-hands-on/blob/master/docs/setup.md)
+Visit the site to get started: [Setup your Environment](https://github.com/awssecurityevents/Automated_Threat_Detection_and_Remediation/blob/master/docs/setup.md)
 
 ## License Summary
 
