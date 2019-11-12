@@ -74,4 +74,4 @@ You should see a response that states that there is an explicit deny for that ac
 
 ## Summary:
 
-[Summary](https://github.com/securityroadshow/amazon-guardduty-hands-on/blob/master/docs/summary.md)
+[Summary](https://github.com/awssecurityevents/Automated_Threat_Detection_and_Remediation/blob/master/docs/summary.md)
