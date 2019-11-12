@@ -61,4 +61,4 @@ Since Alice did not setup a remediation for this finding, you have to manually r
 
 ## Proceed to Scenario 3:
 
-[Scenario 3](https://github.com/securityroadshow/amazon-guardduty-hands-on/blob/master/docs/scenario3/index.md)
+[Scenario 3](https://github.com/awssecurityevents/Automated_Threat_Detection_and_Remediation/blob/master/docs/scenario3/index.md)
