@@ -100,4 +100,4 @@ Next, double check the effects of the remediation to ensure the instance is isol
 
 ## Proceed to Scenario 2:
 
-[Scenario 2](https://github.com/securityroadshow/amazon-guardduty-hands-on/blob/master/docs/scenario2/index.md)
+[Scenario 2](https://github.com/awssecurityevents/Automated_Threat_Detection_and_Remediation/blob/master/docs/scenario2/index.md)
